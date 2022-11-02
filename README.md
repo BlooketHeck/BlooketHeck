@@ -10,5 +10,7 @@
 ### Stats 
 ![](https://github-readme-streak-stats.herokuapp.com?user=BlooketHeck&theme=dark&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api?username=BlooketHeck&show_icons=true&theme=tokyonight)
+
 ## Thanks For visiting my profile! (adding more soon)
 
