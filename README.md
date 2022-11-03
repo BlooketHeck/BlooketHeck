@@ -1,4 +1,4 @@
-# [![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=008FF7&width=450&lines=Hello!+My+name+is+BlooketHeck;I+like+hacking+games+like...;Blooket!;Check+out+my+repositories!;Thanks+for+visiting+my+profile.)](https://git.io/typing-svg)
+# [![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=500&color=008FF7&width=450&lines=Hello!+My+name+is+BlooketHeck;I+like+hacking+games+like...;Blooket!;Check+out+my+repositories!;Thanks+for+visiting+my+profile.)](https://git.io/typing-svg)
 
 
 
