@@ -1,5 +1,10 @@
 # BlooketHeck
 
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008FF7&width=450&lines=Hello!+My+name+is+BlooketHeck;I+like+hacking+games+like...;Blooket!;Check+out+my+repositories!;Thanks+for+visiting+my+profile.)](https://git.io/typing-svg)
+
+
+
+
 ![](https://komarev.com/ghpvc/?username=BlooketHeck)
 
 ### If you would like to contact me you can create an issue on [THIS](https://github.com/BlooketHeck/BlooketHeck/issues) repository
