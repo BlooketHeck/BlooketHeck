@@ -15,5 +15,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=BlooketHeck&show_icons=true&theme=tokyonight)
 
-## Thanks For visiting my profile! (adding more soon)
 
