@@ -15,4 +15,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=BlooketHeck&show_icons=true&theme=tokyonight)
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlooketHeck)](https://github.com/anuraghazra/github-readme-stats)
+
 
